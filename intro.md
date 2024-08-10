@@ -1,0 +1,13 @@
+# AsciiDoc
+## Intro
+AsciiDoc is a human-readable document format,
+
+semantically equivalent to DocBook XML, 
+
+but using plain-text mark-up conventions. 
+
+AsciiDoc documents can be created using any text editor and read “as-is”, 
+
+or rendered to HTML or any other format supported by a DocBook tool-chain, i.e. PDF, TeX, Unix manpages, e-books, slide presentations, etc. 
+
+Common file extensions for AsciiDoc files are txt (as encouraged by AsciiDoc's creator) and adoc.
